@@ -1,0 +1,64 @@
+Time,API,Status,Path
+1701304090.716598,NtOpenKey,Success,HKEY_LOCAL_MACHINE
+1701304090.716598,NtOpenKeyEx,Fail,HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Diagnostics
+1701304090.726598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework\Policy\
+1701304090.726598,RegQueryInfoKeyW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy
+1701304090.726598,RegEnumKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy
+1701304090.726598,RegEnumKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy
+1701304090.726598,RegEnumKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy
+1701304090.726598,RegEnumKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy
+1701304090.726598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy\v2.0
+1701304090.726598,RegCloseKey,Success,0x00000038
+1701304090.736598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304090.736598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304090.736598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304090.736598,RegCloseKey,Success,0x00000038
+1701304090.736598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy\Upgrades
+1701304090.736598,RegCloseKey,Success,0x00000038
+1701304090.736598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304090.736598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304090.736598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304090.736598,RegCloseKey,Success,0x00000038
+1701304090.736598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy\Standards
+1701304090.736598,RegCloseKey,Success,0x00000038
+1701304090.736598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy\AppPatch
+1701304090.736598,RegCloseKey,Success,0x00000038
+1701304090.736598,RegCloseKey,Success,0x00000034
+1701304090.736598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304090.736598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304090.736598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304090.736598,RegCloseKey,Success,0x00000034
+1701304090.736598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304090.736598,RegQueryValueExW,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\CLRLoadLogDir
+1701304090.736598,RegCloseKey,Success,0x00000034
+1701304090.746598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304090.746598,RegQueryValueExW,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\OnlyUseLatestCLR
+1701304090.746598,RegCloseKey,Success,0x00000034
+1701304090.796598,NtOpenKey,Fail,HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Error Message Instrument\
+1701304090.796598,NtOpenKey,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\GRE_Initialize
+1701304090.796598,NtQueryValueKey,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\DisableMetaFiles
+1701304090.806598,NtOpenKeyEx,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows
+1701304090.806598,NtQueryValueKey,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\LoadAppInit_DLLs
+1701304091.127598,RegOpenKeyExW,Fail,HKEY_CURRENT_USER\Software\Microsoft\.NETFramework\Policy\Standards
+1701304091.127598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework\Policy\Standards
+1701304091.137598,RegOpenKeyExW,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy\Standards\v4.0.30319
+1701304091.137598,RegCloseKey,Success,0x00000054
+1701304091.137598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304091.137598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304091.137598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304091.147598,RegCloseKey,Success,0x00000054
+1701304091.157598,RegOpenKeyExW,Fail,HKEY_CURRENT_USER\Software\Microsoft\.NETFramework\Policy\Upgrades
+1701304091.257598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework\Policy\Upgrades
+1701304091.267598,RegQueryInfoKeyW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy\Upgrades
+1701304091.277598,RegEnumValueW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\Policy\Upgrades\
+1701304091.297598,RegCloseKey,Success,0x00000054
+1701304091.297598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304091.297598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304091.307598,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\InstallRoot
+1701304091.307598,RegCloseKey,Success,0x00000054
+1701304091.447598,RegOpenKeyExW,Fail,HKEY_CURRENT_USER\Software\Microsoft\.NETFramework
+1701304091.447598,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1701304091.447598,RegQueryValueExW,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\NoGuiFromShim
+1701304091.457598,RegCloseKey,Success,0x00000054
+1701304091.477598,NtOpenKey,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\GRE_Initialize
+1701304091.818598,NtQueryValueKey,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\DisableMetaFiles

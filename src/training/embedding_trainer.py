@@ -17,7 +17,6 @@ def load_features(input_dir):
                         features[feature_type][file_hash] = [row[0] for row in reader]
     return features
 
-
 def train_word2vec(sentences, feature_name, save_dir):
     model = Word2Vec(
         vector_size=128, window=5, min_count=1, workers=4, sg=1, hs=0, negative=10,

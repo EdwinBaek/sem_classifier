@@ -1,0 +1,11 @@
+Time,API,Status,Path
+1664904279.732246,NtQueryAttributesFile,Fail,C:\Users\cuckoo1\AppData\Local\Temp\00a95c8d9609d442de35e739f310276a.KOR
+1664904279.732246,NtQueryAttributesFile,Fail,C:\Users\cuckoo1\AppData\Local\Temp\00a95c8d9609d442de35e739f310276a.KOR.DLL
+1664904279.742246,NtQueryAttributesFile,Fail,C:\Users\cuckoo1\AppData\Local\Temp\00a95c8d9609d442de35e739f310276a.KO
+1664904279.742246,NtQueryAttributesFile,Fail,C:\Users\cuckoo1\AppData\Local\Temp\00a95c8d9609d442de35e739f310276a.KO.DLL
+1664904279.952246,GetSystemWindowsDirectoryW,Success,N/A
+1664904279.952246,NtCreateFile,Success,C:\Windows\Globalization\Sorting\sortdefault.nls
+1664904280.092246,GetSystemWindowsDirectoryW,Success,N/A
+1664904280.293246,NtOpenFile,Success,C:\Windows\win.ini
+1664904280.303246,NtQueryInformationFile,Success,N/A
+1664904280.303246,NtReadFile,Success,N/A

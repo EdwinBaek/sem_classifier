@@ -1,0 +1,7 @@
+Time,API,Status,Path
+1701317957.149117,SearchPathW,Success,C:\Windows\system32\IMM32.DLL
+1701317957.399117,SearchPathW,Fail,Ä`郸asers\admin\AppData\Local\Temp\VirusShare_2f7066351654108f03369b0223448ea9.exe
+1701317957.420117,GetFileAttributesW,Success,C:\Windows\System32\C_932.NLS
+1701317957.440117,GetFileAttributesW,Success,C:\Windows\System32\C_950.NLS
+1701317957.440117,GetFileAttributesW,Success,C:\Windows\System32\C_936.NLS
+1701317958.111117,GetSystemDirectoryW,Success,N/A

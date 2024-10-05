@@ -1,0 +1,11 @@
+Time,API,Status,Path
+1664978902.28626,RegOpenKeyExA,Fail,HKEY_LOCAL_MACHINE\Software\Borland\Database Engine
+1664978902.38626,NtOpenKey,Success,HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Nls\CustomLocale
+1664978902.38626,NtQueryValueKey,Fail,HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Nls\CustomLocale\en-US
+1664978902.38626,NtOpenKey,Success,HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Nls\ExtendedLocale
+1664978902.38626,NtQueryValueKey,Fail,HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Nls\ExtendedLocale\en-US
+1664978902.38626,RegQueryValueExW,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{227188db-3179-4fdf-af3a-da3b85a0b3cc}\InprocServer32\InprocServer32
+1664978902.38626,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{227188db-3179-4fdf-af3a-da3b85a0b3cc}\InprocServer32\(Default)
+1664978902.38626,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{227188db-3179-4fdf-af3a-da3b85a0b3cc}\InprocServer32\(Default)
+1664978902.38626,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{227188db-3179-4fdf-af3a-da3b85a0b3cc}\InprocServer32\(Default)
+1664978902.38626,RegQueryValueExW,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{227188db-3179-4fdf-af3a-da3b85a0b3cc}\InprocServer32\ThreadingModel

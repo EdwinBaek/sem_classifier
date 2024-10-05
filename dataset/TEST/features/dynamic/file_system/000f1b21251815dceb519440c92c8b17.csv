@@ -1,0 +1,5 @@
+Time,API,Status,Path
+1664904262.94496,GetFileAttributesW,Success,C:\Users\cuckoo1\AppData\Local\Temp\000f1b21251815dceb519440c92c8b17.vir.dll
+1664904262.94496,GetFileAttributesW,Fail,C:\Users\cuckoo1\AppData\Local\Temp\000f1b21251815dceb519440c92c8b17.vir.dll.manifest
+1664904262.97496,NtCreateFile,Success,C:\Users\cuckoo1\AppData\Local\Temp\000f1b21251815dceb519440c92c8b17.vir.dll
+1664904262.97496,GetFileSize,Success,N/A

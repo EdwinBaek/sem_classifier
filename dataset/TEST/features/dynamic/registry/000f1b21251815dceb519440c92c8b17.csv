@@ -1,0 +1,5 @@
+Time,API,Status,Path
+1664904263.03496,RegOpenKeyExW,Fail,HKEY_CURRENT_USER\Software\Microsoft\.NETFramework
+1664904263.03496,RegOpenKeyExW,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\.NETFramework
+1664904263.04496,RegQueryValueExW,Fail,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\IJWEntrypointCompatMode
+1664904263.05496,RegCloseKey,Success,0x000000c4

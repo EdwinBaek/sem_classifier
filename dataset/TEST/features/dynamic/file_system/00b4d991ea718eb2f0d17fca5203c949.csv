@@ -1,0 +1,8 @@
+Time,API,Status,Path
+1664904275.783628,GetFileAttributesW,Success,C:\Users\cuckoo1\AppData\Local\Temp\00b4d991ea718eb2f0d17fca5203c949.vir.dll
+1664904275.783628,GetFileAttributesW,Fail,C:\Users\cuckoo1\AppData\Local\Temp\00b4d991ea718eb2f0d17fca5203c949.vir.dll.manifest
+1664904275.943628,NtCreateFile,Success,C:\Users\cuckoo1\AppData\Local\Temp\00b4d991ea718eb2f0d17fca5203c949.vir.dll
+1664904275.943628,NtReadFile,Success,N/A
+1664904275.943628,SetFilePointer,Success,N/A
+1664904275.943628,NtReadFile,Success,N/A
+1664904275.943628,NtCreateFile,Success,C:\Windows\System32\ko-KR\KERNELBASE.dll.mui
