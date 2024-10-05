@@ -1,4 +1,0 @@
-Time,API,Status,Path
-1701307593.240293,GetFileAttributesW,Success,C:\Users\admin\AppData\Local\Temp\VirusShare_2fa4f74d7a863c65769becdb7e81a752.dll
-1701307593.240293,GetFileAttributesW,Fail,C:\Users\admin\AppData\Local\Temp\VirusShare_2fa4f74d7a863c65769becdb7e81a752.dll.manifest
-1701307593.500293,GetSystemDirectoryA,Success,N/A

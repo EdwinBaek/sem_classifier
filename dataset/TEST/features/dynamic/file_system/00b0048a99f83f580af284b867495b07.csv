@@ -1,8 +1,0 @@
-Time,API,Status,Path
-1664978902.26626,GetFileType,Success,N/A
-1664978902.26626,GetFileType,Success,N/A
-1664978902.26626,GetFileType,Success,N/A
-1664978902.26626,GetFileType,Success,N/A
-1664978902.27626,NtOpenFile,Fail,C:\Windows\MVWIN.INI
-1664978902.27626,NtOpenFile,Fail,C:\Windows\MVWIN.INI
-1664978902.28626,FindFirstFileExW,Fail,C:\Users\cuckoo1\AppData\Local\Temp\IDAPI32.DLL

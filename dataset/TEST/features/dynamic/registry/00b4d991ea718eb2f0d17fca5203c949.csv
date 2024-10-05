@@ -1,3 +1,0 @@
-Time,API,Status,Path
-1664904275.953628,NtOpenKey,Success,HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\Windows Error Reporting\WMR
-1664904275.953628,NtQueryValueKey,Success,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\WMR\Disable
